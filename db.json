@@ -1,16 +1,208 @@
 {
-  "posts":[
+  "posts": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id": 1,
+      "title": "Killua Zoldyck",
+      "subTitle": "Hunter x Hunter",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/05/Killua-Featured.jpg?q=50&fit=crop&w=960&h=500&dpr=1.5",
+      "body": "Killua Zoldyck is the third child of Silva and Kikyo Zoldyck and the heir of the Zoldyck Family, until he runs away from home and becomes a Rookie Hunter. He is the best friend of Gon Freecss and is currently traveling with Alluka Zoldyck.",
+      "createDate": "2018/06/18",
+      "likes": 12,
+      "author": 3,
+      "tags": [7, 9]
+    },
+    {
+      "id": 2,
+      "title": "Link",
+      "subTitle": "The legend of Zelda",
+      "image": "https://dibujando.net/files/fs/p/c/900x1000/2014/146/link_zelda_79601.jpg",
+      "body": "Link es el nombre del protagonista de The Legend of Zelda. Es generalmente representado como un niño o joven valiente, con vestimenta de color verde que abandona su hogar para cumplir su destino: luchar contra las fuerzas malignas que amenazan la tierra de Hyrule, Términa, etc. ",
+      "createDate": "2018/11/20",
+      "likes": 8,
+      "author": 1,
+      "tags": [10, 5]
+    },
+    {
+      "id": 3,
+      "title": "Walter White",
+      "subTitle": "Breaking Bad",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Walter_White_S5B.png/220px-Walter_White_S5B.png",
+      "body": "Walter Hartwell White Sr., also known by his alias Heisenberg, is a fictional character and the protagonist of the American crime drama television series Breaking Bad. He is portrayed by Bryan Cranston.",
+      "createDate": "2018/10/18",
+      "likes": 15,
+      "author": "2",
+      "tags": [3, 5]
+    },
+    {
+      "id": 4,
+      "title": "Harry Potter",
+      "subTitle": "Harry Potter and the Prisoner of Azkaban",
+      "image": "https://static3.srcdn.com/wordpress/wp-content/uploads/2019/06/HARRY-POTTER-AND-THE-PRISONER-OF-AZKABAN.jpg?q=50&fit=crop&w=960&h=500&dpr=1.5",
+      "body": "Harry, Ron and Hermoine return to Hogwarts just as they learn about Sirius Black and his plans to kill Harry. However, when Harry runs into him, he learns that the truth is far from reality.",
+      "createDate": "2018/10/17",
+      "likes": 7,
+      "author": 3,
+      "tags": [7, 8, 10]
+    },
+    {
+      "id": 5,
+      "title": "Donnie Darko",
+      "subTitle": "Donnie Darko",
+      "image": "https://cdn.domestika.org/c_fit,dpr_1.0,f_auto,t_base_params,w_820/v1592232305/content-items/004/913/390/DD-original.jpg?1592232305",
+      "body": "Donnie Darko, an awkward teenager, befriends Frank, a figure in a bunny costume only he can see, who informs Donnie that the world will end in 28 days, 6 hours, 42 minutes, and 12 seconds.",
+      "createDate": "2018/06/12",
+      "likes": 7,
+      "author": 2,
+      "tags": [2, 8, 9]
+    },
+    {
+      "id": 6,
+      "title": "Zero Suit Samus",
+      "subTitle": "Super Smash Bros Ultimate",
+      "image": "https://i.ytimg.com/vi/Y4PTxiq11Fk/maxresdefault.jpg",
+      "body": "Although not as powerful as Samus, her speed is exceptional! Her Paralyzer not only has the ability to stun opponents, but it can also turn into a whip. For her Final Smash, she dons her suit and fires a powerful laser!",
+      "createDate": "2018/10/28",
+      "likes": 7,
+      "author": 3,
+      "tags": [4, 6, 3, 2]
+    },
+    {
+      "id": 7,
+      "title": "Fox",
+      "subTitle": "Super Smash Bros Ultimate",
+      "image": "https://i.ytimg.com/vi/Arw6c0dJHAE/maxresdefault.jpg",
+      "body": "He can overwhelm his opponents with his quick movements, and his specials don't leave him open for counterattacks. His costume and voice have been redone to match his appearance in Star Fox Zero. This Fox is brand new! Come on!",
+      "createDate": "2018/10/03",
+      "likes": 7,
+      "author": 3,
+      "tags": [4, 6, 3, 2]
+    },
+    {
+      "id": 8,
+      "title": "Wolf",
+      "subTitle": "Super Smash Bros Ultimate",
+      "image": "https://www.nintenderos.com/wp-content/uploads/2018/08/Super-Smash-Bros.-Ultimate-6.jpg",
+      "body": "The leader of the Star Wolf mercenary team makes his grand return after 10 years! He puts his sharp claws to good use in wild attacks, and his Final Smash is an all-out attack by Team Star Wolf! If Fox or Falco is in the battle, you may hear a unique line of dialog.",
+      "createDate": "2018/08/30",
+      "likes": 7,
+      "author": 3,
+      "tags": [4, 6, 3, 2]
     }
   ],
-  "comments" : [
+  "tags": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 1,
+      "name": "Animals",
+      "slug": "animals"
+    },
+    {
+      "id": 2,
+      "name": "Nature",
+      "slug": "nature"
+    },
+    {
+      "id": 3,
+      "name": "Food",
+      "slug": "food"
+    },
+    {
+      "id": 4,
+      "name": "Life style",
+      "slug": "life-style"
+    },
+    {
+      "id": 5,
+      "name": "Travel",
+      "slug": "travel"
+    },
+    {
+      "id": 6,
+      "name": "Sports",
+      "slug": "sports"
+    },
+    {
+      "id": 7,
+      "name": "TV Shows",
+      "slug": "tv-shows"
+    },
+    {
+      "id": 8,
+      "name": "Movies",
+      "slug": "movies"
+    },
+    {
+      "id": 9,
+      "name": "Anime",
+      "slug": "anime"
+    },
+    {
+      "id": 10,
+      "name": "Videogames",
+      "slug": "videogames"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "comment": "Test comment on post #1",
+      "postId": 1,
+      "user": 1
+    },
+    {
+      "id": 2,
+      "comment": "Test comment on post #1",
+      "postId": 1,
+      "user": 2
+    },
+    {
+      "id": 3,
+      "comment": "Test comment on post #2",
+      "postId": 2,
+      "user": 3
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "John",
+      "lastName": "Wick"
+    },
+    {
+      "id": 2,
+      "name": "John",
+      "lastName": "Cena"
+    },
+    {
+      "id": 3,
+      "name": "Bruce",
+      "lastName": "Wayne"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Anakin",
+      "lastName": "Skywalker"
+    },
+    {
+      "id": 2,
+      "name": "Padme",
+      "lastName": "Amidala"
+    },
+    {
+      "id": 3,
+      "name": "Obi-Wan",
+      "lastName": "Kenobi"
+    },
+    {
+      "id": 4,
+      "name": "Gon",
+      "lastName": "Freecs"
+    },
+    {
+      "id": 5,
+      "name": "Eren",
+      "lastName": "Jaeger"
     }
   ]
 }
