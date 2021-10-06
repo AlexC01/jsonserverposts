@@ -126,5 +126,12 @@
       "info": "Explore new gaming adventures, accessories, & merchandise on the Minecraft Official Site. Buy & download the game here, or check the site for the latest",
       "price": 27
     }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "comment": "This is the best game ever",
+      "gameId": 1
+    }
   ]
 }
