@@ -15,123 +15,116 @@
       "price": 35
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Assassin's Creed Valhalla",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1318/8XGEPtD1xoasK0FYkYNcCn1z.png",
       "info": "Assassin's Creed Valhalla is a 2020 action role-playing video game developed by Ubisoft Montreal and published by Ubisoft. It is the twelfth major installment in the Assassin's Creed series, and the successor to 2018's Assassin's Creed Odyssey.",
       "price": 35
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "Dark Souls 3",
       "image": "https://image.api.playstation.com/cdn/UP0700/CUSA03388_00/v8JlD8KcQUtTqaLBmpFnj1ESRR5zMkLk.png",
       "info": "Dark Souls III is a 2016 action role-playing video game developed by FromSoftware and published by Bandai Namco Entertainment for PlayStation 4, Xbox One, and Microsoft Windows. It is the fourth instalment of the Souls series and the final instalment of the Dark Souls trilogy.",
       "price": 28
     },
     {
-      "id": 4,
+      "id": 5 ,
       "title": "Zelda Breath of the Wild",
       "image": "https://m.media-amazon.com/images/I/81YBQYIRw0L._AC_SY500_.jpg",
       "info": "The Legend of Zelda: Breath of the Wild is an action-adventure game developed and published by Nintendo for the Nintendo Switch and Wii U consoles. Breath of the Wild is part of The Legend of Zelda franchise and is set at the end of the Zelda timeline.",
       "price": 52
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "Batman Arkham Night",
       "image": "https://s2.gaming-cdn.com/images/products/2419/orig/game-steam-batman-arkham-knight-cover.jpg",
       "info": "Batman: Arkham Knight is a 2015 action-adventure game developed by Rocksteady Studios and published by Warner Bros. Interactive Entertainment. Based on the DC Comics superhero Batman, it is the successor to the 2013 video game Batman: Arkham Origins, and the fourth main installment in the Batman: Arkham series. ",
       "price": 30
     },
     {
-      "id": 6,
+      "id": 7,
       "title": "Red Dead Redemption 2",
       "image": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png",
       "info": "Red Dead Redemption 2 is a 2018 action-adventure game developed and published by Rockstar Games. The game is the third entry in the Red Dead series and is a prequel to the 2010 game Red Dead Redemption.",
       "price": 60
     },
     {
-      "id": 7,
+      "id": 8,
       "title": "God Of War",
       "image": "https://image.api.playstation.com/vulcan/img/rnd/202011/1021/X3WIAh63yKhRRiMohLoJMeQu.png",
       "info": "God of War is an action-adventure game franchise created by David Jaffe at Sony's Santa Monica Studio. It began in 2005 on the PlayStation 2 video game console, and has become a flagship title for the PlayStation brand, consisting of eight games across multiple platforms with a ninth currently in development.",
       "price": 45
     },
     {
-      "id": 8,
+      "id": 9,
       "title": "Horizon Zero Dawn",
       "image": "https://cdn-products.eneba.com/resized-products/cfp1c3QENHakdjuf424Yt6hVn_mmFbOV-M8rITUoVj8_350x200_1x-0.jpeg",
       "info": "Horizon Zero Dawn is a 2017 action role-playing game developed by Guerrilla Games and published by Sony Interactive Entertainment. The plot follows Aloy, a young hunter in a world overrun by machines, who sets out to uncover her past.",
       "price": 25
     },
     {
-      "id": 9,
+      "id": 10,
       "title": "The Elder Scrolls V",
       "image": "https://cdn.europosters.eu/image/750/posters/skyrim-dragonborn-i29157.jpg",
       "info": "The Elder Scrolls V: Skyrim is an open-world action role-playing video game developed by Bethesda Game Studios and published by Bethesda Softworks.",
       "price": 40
     },
     {
-      "id": 10,
+      "id": 11,
       "title": "The Witcher 3: Wild Hunt",
       "image": "https://image.api.playstation.com/vulcan/img/rnd/202009/2913/TQKAd8U6hnIFQIIcz6qnFh8C.png",
       "info": "The Witcher 3: Wild Hunt is an action role-playing game developed by Polish developer CD Projekt Red, and first published in 2015.",
       "price": 23
     },
     {
-      "id": 11,
+      "id": 12,
       "title": "Cyberpunk 2077",
       "image": "https://s1.gaming-cdn.com/images/products/840/orig/game-gog-com-cyberpunk-2077-cover.jpg",
       "info": "Cyberpunk 2077 is an action role-playing video game developed and published by CD Projekt. The story takes place in Night City, an open world set in the Cyberpunk universe.",
       "price": 60
     },
     {
-      "id": 12,
+      "id": 13,
       "title": "Halo Infinite",
       "image": "https://media.vandal.net/m/82244/halo-infinite-202072216173826_2.jpg",
       "info": "Halo Infinite is an upcoming first-person shooter game developed by 343 Industries and published by Xbox Game Studios for Microsoft Windows, Xbox One, and Xbox Series X and Series S.",
       "price": 60
     },
     {
-      "id": 13,
+      "id": 14,
       "title": "Jurassic World Evolution",
       "image": "https://www.mobygames.com/images/covers/l/506989-jurassic-world-evolution-xbox-one-front-cover.jpg",
       "info": "Jurassic World Evolution is a construction and management simulation video game developed and published by Frontier Developments. Based on the 2015 film Jurassic World, the game was released in June 2018, for Microsoft Windows, PlayStation 4 and Xbox One.",
       "price": 18
     },
     {
-      "id": 14,
+      "id": 15,
       "title": "Battlefield 2042",
       "image": "https://s1.gaming-cdn.com/images/products/6690/orig/battlefield-2042-pc-game-origin-cover.jpg",
       "info": "Battlefield 2042 is an upcoming first-person shooter video game developed by DICE and published by Electronic Arts",
       "price": 70
     },
     {
-      "id": 15,
+      "id": 16,
       "title": "Forza Horizon 5",
       "image": "https://giftcardgo.ir/wp-content/uploads/2021/06/pcd_forzahorizon5.jpg",
       "info": "Forza Horizon 5 is an upcoming racing game developed by Playground Games and published by Xbox Game Studios. It will be the fifth Forza Horizon title and twelfth main instalment in the Forza series. The game is set in a fictionalised representation of Mexico.",
       "price": 21
     },
     {
-      "id": 16,
+      "id": 17,
       "title": "Marvel's Spider-Man: Miles Morales",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/T45iRN1bhiWcJUzST6UFGBvO.png",
       "info": "Marvel's Spider-Man: Miles Morales is a 2020 action-adventure game developed by Insomniac Games and published by Sony Interactive Entertainment for the PlayStation 4 and PlayStation 5.",
       "price": 42
     },
     {
-      "id": 17,
+      "id": 18,
       "title": "Minecraft",
       "image": "https://www.minecraft.net/content/dam/games/minecraft/key-art/Games_Subnav_Minecraft-300x465.jpg",
       "info": "Explore new gaming adventures, accessories, & merchandise on the Minecraft Official Site. Buy & download the game here, or check the site for the latest",
       "price": 27
-    },
-    {
-      "id": 18,
-      "title": "The Sims 4",
-      "image": "https://m.media-amazon.com/images/I/71otyq1xFNL._SL1499_.jpg",
-      "info": "The Sims 4 is a 2014 life simulation game developed by Maxis, and published by Electronic Arts. It is the fourth major title in The Sims series. It was announced on May 6, 2013, and released in September 2014 for Microsoft Windows.",
-      "price": 55
     }
   ],
   "comments": [
