@@ -29,7 +29,7 @@
       "price": 28
     },
     {
-      "id": 5 ,
+      "id": 5,
       "title": "Zelda Breath of the Wild",
       "image": "https://m.media-amazon.com/images/I/81YBQYIRw0L._AC_SY500_.jpg",
       "info": "The Legend of Zelda: Breath of the Wild is an action-adventure game developed and published by Nintendo for the Nintendo Switch and Wii U consoles. Breath of the Wild is part of The Legend of Zelda franchise and is set at the end of the Zelda timeline.",
@@ -125,108 +125,6 @@
       "image": "https://www.minecraft.net/content/dam/games/minecraft/key-art/Games_Subnav_Minecraft-300x465.jpg",
       "info": "Explore new gaming adventures, accessories, & merchandise on the Minecraft Official Site. Buy & download the game here, or check the site for the latest",
       "price": 27
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "comment": "This is the best game ever",
-      "gameId": 1
-    },
-    {
-      "id": 2,
-      "comment": "A great game ",
-      "gameId": 1
-    },
-    {
-      "id": 3,
-      "comment": "Very bad game but its worth it",
-      "gameId": 2
-    },
-    {
-      "id": 4,
-      "comment": "Could it been better",
-      "gameId": 3
-    },
-    {
-      "id": 5,
-      "comment": "Very bad game but its worth it",
-      "gameId": 4
-    },
-    {
-      "id": 6,
-      "comment": "Very bad game but its worth it",
-      "gameId": 4
-    },
-    {
-      "id": 7,
-      "comment": "Could it been better",
-      "gameId": 5
-    },
-    {
-      "id": 8,
-      "comment": "Could it been better",
-      "gameId": 6
-    },
-    {
-      "id": 9,
-      "comment": "Could it been better",
-      "gameId": 7
-    },
-    {
-      "id": 10,
-      "comment": "Could it been better",
-      "gameId": 8
-    }
-    {
-      "id": 11,
-      "comment": "Could it been better",
-      "gameId": 9
-    },
-    {
-      "id": 12,
-      "comment": "Could it been better",
-      "gameId": 10
-    },
-    {
-      "id": 13,
-      "comment": "Could it been better",
-      "gameId": 11
-    },
-    {
-      "id": 14,
-      "comment": "Could it been better",
-      "gameId": 12
-    },
-    {
-      "id": 15,
-      "comment": "Could it been better",
-      "gameId": 13
-    },
-    {
-      "id": 16,
-      "comment": "Could it been better",
-      "gameId": 14
-    },
-    {
-      "id": 17,
-      "comment": "Could it been better",
-      "gameId": 15
-    },
-    {
-      "id": 18,
-      "comment": "Could it been better",
-      "gameId": 16
-    },
-    {
-      "id": 19,
-      "comment": "Could it been better",
-      "gameId": 17
-    },
-    {
-      "id": 20,
-      "comment": "Could it been better",
-      "gameId": 18
     }
   ]
 }
